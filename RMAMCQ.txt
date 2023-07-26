@@ -1,0 +1,1207 @@
+Subject- Resource Management and Accounting
+1. What is the popular method of organizing wireless network topologies?
+a) Software
+b) Synchronization
+c) Network
+d) Cluster
+View Answer
+Answer: d
+Explanation: Clustering is a popular method of organising wireless network topologies, in which a few nodes, the cluster heads are elected as representing to route the traffic originated in the entire network.
+
+2. _________ will enable the humans to access, control and manage the operation.
+a) IoT
+b) Bigdata
+c) Network
+d) Communication
+View Answer
+Answer: a
+Explanation: IoT enables the humans to access, control and manage the operations and data of the objects working under different information systems of their surroundings.
+
+3. In _________ the embedded devices and objects working under IoT are resource constrained.
+a) Health
+b) Industry
+c) Home
+d) Information system
+View Answer
+Answer: d
+Explanation: In the information system the embedded devices and objects working under IoT implementation are resource constrained.
+
+4. What type of networks is interacting under IoT?
+a) Heterogeneous only
+b) Homogeneous Only
+c) Both hetero and homogeneous
+d) Neither hetero nor Homo
+View Answer
+Answer: a
+Explanation: Due to the huge number of heterogeneous network elements interacting and working under IoT based information systems, there is an enormous need for resource management for the smooth running of IoT operations.
+
+5. Managing of resources can be done by implementing ________
+a) Protocols
+b) Algorithms
+c) Networks
+d) Protocols and algorithms
+View Answer
+Answer: d
+Explanation: Managing of resources by implementing protocols, algorithms or techniques is required to enhance the scalability, reliability and stability in the operations of IoT across different domains of technology.
+6. This section is to solicit the efforts and ongoing research work in the domain of _______
+a) Information Management
+b) Resource Management
+c) Industrial Management
+d) Network Management
+View Answer
+Answer: b
+Explanation: The motivation of this section is to solicit the efforts and ongoing research work in the domain of resource management in IoT.
+
+7. Resource management will elaborate the key aspects of _________
+a) Industrial management
+b) Energy management
+c) Network management
+d) Information management
+View Answer
+Answer: b
+Explanation: Resource management will elaborate the key aspects of energy management, communication protocols and future applications of IoT for information systems.
+
+8. Resource management includes ___________
+a) IoT Devices
+b) IoT Cloud
+c) IoT Networks
+d) IoT Web
+View Answer
+Answer: b
+Explanation: Resource management includes IoT Cloud, IoT based industrial and home environment and integration of IoT concept in upcoming technologies of Cyber Physical System, Ambient living and Fog Computing.
+
+9. What is the role of communication protocol in IoT?
+a) Smart cities
+b) Cyber physical system
+c) Mac layer issue
+d) Managing energy
+View Answer
+Answer: c
+Explanation: Role of communication protocol in IoT :
+–> Multimedia communication
+–> QoS in communication protocol
+–> Mac layer issues
+–> Secure communication in D2D.
+
+10. Which of the following is the future application of IoT?
+a) Role of green IoT system
+b) QoS in communication
+c) Secure communication
+d) Multimedia communication
+View Answer
+Answer: a
+Explanation: Future applications of IoT:
+–> IoT based information system for Ambient living
+–> Cyber Physical System in IoT
+–> Role of Green IoT system
+–> Fog computing.
+
+11. The object of IoT will be empowered by ___________
+a) Network
+b) Cloud
+c) Devices
+d) Connectivity
+View Answer
+Answer: c
+Explanation: The objects of the Internet of Things will be empowered by embedded devices whose constrained resources will need to be managed efficiently.
+
+12. The embedded devices will form _______ network.
+a) ATM
+b) Ethernet
+c) FDDI
+d) Ad-hoc
+View Answer
+Answer: d
+Explanation: It is envisioned that these devices will be able to form ad-hoc network, and that the connection from these networks to the Internet of Things infrastructure will not always be possible.
+
+13. _______ are used to overcome the challenges of managing the resources of the IoT.
+a) Clustering
+b) Software agents
+c) Synchronization techniques
+d) Cluster, Software agent, and Synchronization techniques
+View Answer
+Answer: d
+Explanation: The use of Cluster, Software agent, and Synchronization techniques are used in order to overcome the challenges of managing the resources of the Internet of Things objects.
+
+14. Which will reduce the energy expenditure?
+a) Clustering
+b) Software agents
+c) Synchronization techniques
+d) Cluster, Software agent, and Synchronization techniques
+View Answer
+Answer: a
+Explanation: Clustering will be beneficial to reduce the energy expenditure and improve the scalability and robustness of the object networks.
+
+15. Synchronization techniques will be necessary to address the various challenges of harmonising.
+a) False
+b) True
+View Answer
+Answer: b
+Explanation: Synchronization techniques will be necessary to address the various challenges of harmonising plenty of copies of object data with potentially partially disconnected Internet of Things architecture components.
+
+16. A scheduling algorithm can use either ___________ priority or ________ priority.
+a) static, still
+b) static, dynamic
+c) live, dead
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: None.
+
+17. The priority of a process will ______________ if the scheduler assigns it a static priority.
+a) change
+b) remain unchanged
+c) depends on the operating system
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: None.
+
+
+18. As disks have relatively low transfer rates and relatively high latency rates, disk schedulers must reduce latency times to ___________
+a) ensure high bandwidth
+b) ensure low bandwidth
+c) make sure data is transferred
+d) reduce data transfer speeds
+View Answer
+Answer: a
+Explanation: None.
+
+19. Servicing requests strictly according to deadline using EDF may result in ___________
+a) lower seek times
+b) lower bandwidth
+c) higher seek time
+d) higher bandwidth
+View Answer
+Answer: c
+Explanation: None.
+
+20. The hybrid algorithm that combines EDF with SCAN algorithm is known as ___________
+a) EDS
+b) SDF
+c) SCAN-EDF
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: None.
+
+21. If several requests have different deadlines that are relatively close together, then using the SCAN – EDF algorithm ___________
+a) the SCAN ordering will service the requests in that batch
+b) the EDF ordering will service the requests in that batch
+c) the FCFS ordering will service the requests in that batch
+d) none of the mentioned
+View Answer
+Answer: a
+Explanation: None.
+
+22. Multimedia systems require _________ scheduling to ensure critical tasks will be serviced within timing deadlines.
+
+a) soft real time
+b) hard real time
+c) normal
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: None.
+
+23. The EDF scheduler uses ________ to order requests according to their deadlines.
+
+a) stack
+b) disks
+c) queue
+d) none of the mentioned
+View Answer
+Answer: c
+Explanation: None.
+
+24. In SCAN – EDF, requests with the same deadlines are ordered according to ___________
+
+a) SCAN policy
+b) EDF policy
+c) FCFS policy
+d) FIFO policy
+View Answer
+Answer: a
+Explanation: None.
+
+25. What is the main function of a batch system in a resource manager?
+a. Real-time processing of user requests
+ b. Efficient utilization of computational resources
+ c. Interactive processing of user requests 
+d. None of the above
+Answer: b. Efficient utilization of computational resources
+
+
+
+
+26. What is the primary goal of a batch scheduler in a resource manager?
+a. Fair allocation of resources to users
+ b. Real-time processing of user requests
+ c. Maximizing the throughput of the system
+ d. None of the above
+Answer: c. Maximizing the throughput of the system
+
+27. What is the typical scheduling algorithm used in batch systems of resource managers?
+a. Round Robin
+ b. First-Come-First-Served (FCFS)
+ c. Shortest Job First (SJF)
+ d. None of the above
+Answer: c. Shortest Job First (SJF)
+
+28. Which of the following is a commonly used batch queueing system?
+a. SLURM
+ b. PBS 
+c. SGE 
+d. All of the above
+Answer: d. All of the above
+
+29. How does a batch system handle priorities for job submissions?
+a. Based on the submission time of the job
+ b. Based on the priority assigned by the user or administrator
+c. Based on the resource requirements of the job 
+d. None of the above
+Answer: b. Based on the priority assigned by the user or administrator
+
+30. What is a checkpoint in the context of batch systems?
+a. A point in the execution of a job where its progress is saved 
+b. A way to monitor the resource usage of a running job 
+c. A method to kill a running job
+ d. None of the above
+Answer: a. A point in the execution of a job where its progress is saved
+
+31. How does a batch system handle job failures?
+a. The job is automatically restarted 
+b. The job is terminated and the user must resubmit 
+c. The job is placed in a hold state and the user must take action
+ d. None of the above
+Answer: b. The job is terminated and the user must resubmit
+
+32. What is the purpose of backfilling in batch systems?
+a. To maximize system utilization by filling in idle periods with smaller jobs
+ b. To ensure that the system always has a minimum utilization level 
+c. To prevent smaller jobs from being blocked by larger ones 
+d. None of the above
+Answer: a. To maximize system utilization by filling in idle periods with smaller jobs
+
+33. What is an allocation in the context of batch systems?
+a. The amount of time a job is expected to run 
+b. The set of resources (e.g., nodes, cores) assigned to a job
+ c. The priority assigned to a job
+ d. None of the above
+Answer: b. The set of resources (e.g., nodes, cores) assigned to a job
+
+34. What is the purpose of resource limits in batch systems?
+a. To prevent a job from using more resources than it is allocated 
+b. To ensure that a job has access to all the resources it requires
+ c. To improve system performance by limiting the resources available to a job 
+d. None of the above
+Answer: a. To prevent a job from using more resources than it is allocated
+
+35. What is the primary function of a resource manager in a computing environment?
+a. Allocating and managing resources for user applications 
+b. Providing storage for user data
+ c. Securing the computing environment from unauthorized access 
+d. None of the above
+Answer: a. Allocating and managing resources for user applications
+
+36. What is the main goal of a resource manager in a high-performance computing (HPC) environment?
+a. Maximizing the utilization of available resources
+ b. Minimizing the response time for user requests 
+c. Providing high availability of resources
+ d. All of the above
+Answer: a. Maximizing the utilization of available resources
+
+37. What are the main components of a resource manager in an HPC environment?
+a. Resource manager, scheduler, node manager, and job manager
+ b. Resource allocator, job scheduler, node monitor, and resource monitor
+ c. Resource coordinator, job manager, node controller, and resource manager 
+d. None of the above
+Answer: b. Resource allocator, job scheduler, node monitor, and resource monitor
+
+38. What is the purpose of a scheduler in a resource manager?
+a. To allocate resources to user applications 
+b. To determine the order in which jobs should be executed 
+c. To monitor the utilization of resources 
+d. None of the above
+Answer: b. To determine the order in which jobs should be executed
+
+39. How does a resource manager handle job failures in a computing environment?
+a. By automatically restarting the failed job 
+b. By killing the failed job and requiring the user to resubmit it 
+c. By placing the failed job in a hold state and requiring the user to take action 
+d. None of the above
+Answer: b. By killing the failed job and requiring the user to resubmit it
+
+40 . What is a node in the context of resource managers?
+a. A single machine in a computing environment 
+b. A set of machines in a computing environment 
+c. A logical partition of a machine 
+d. None of the above
+Answer: a. A single machine in a computing environment
+
+41. What is the purpose of a node manager in a resource manager?
+a. To manage the allocation of resources at the node level 
+b. To monitor the utilization of resources at the node level 
+c. To determine the order in which jobs should be executed at the node level 
+d. None of the above
+Answer: b. To monitor the utilization of resources at the node level
+
+42. What is the role of a resource monitor in a resource manager?
+a. To monitor the utilization of resources in the computing environment 
+b. To allocate resources to user applications 
+c. To determine the order in which jobs should be executed 
+d. None of the above
+
+43. What is the main function of a resource coordinator in a resource manager?
+a. To allocate resources to user applications 
+b. To determine the order in which jobs should be executed 
+c. To ensure the fair distribution of resources among users 
+d. None of the above
+Answer: c. To ensure the fair distribution of resources among users
+
+44.  What is the purpose of a job manager in a resource manager?
+a. To manage the execution of user jobs in the computing environment 
+b. To allocate resources to user applications
+ c. To determine the order in which jobs should be executed 
+d. None of the above
+Answer: a. To manage the execution of user jobs in the computing environment
+
+45. What is the main function of a scheduler in a resource manager?
+a. To allocate resources to user applications 
+b. To determine the order in which jobs should be executed 
+c. To monitor the utilization of resources
+ d. None of the above
+Answer: b. To determine the order in which jobs should be executed
+
+46. What is the main goal of a scheduler in a high-performance computing (HPC) environment?
+a. Maximizing the utilization of available resources
+ b. Minimizing the response time for user requests 
+c. Providing high availability of resources 
+d. All of the above
+Answer: b. Minimizing the response time for user requests
+
+47. What is the purpose of a scheduler in a resource manager?
+a. To allocate resources to user applications 
+b. To determine the order in which jobs should be executed 
+c. To monitor the utilization of resources 
+d. None of the above
+Answer: b. To determine the order in which jobs should be executed
+
+48. What is the main algorithm used by schedulers in resource managers?
+a. First-Come-First-Served (FCFS) 
+b. Shortest Job First (SJF)
+ c. Round Robin (RR) 
+d. All of the above
+Answer: d. All of the above
+
+49. What is the purpose of job prioritization in a scheduler?
+a. To ensure that high priority jobs are executed first 
+b. To ensure that low priority jobs are executed first 
+c. To ensure that jobs are executed in the order in which they were submitted 
+d. None of the above
+Answer: a. To ensure that high priority jobs are executed first
+
+50. How does a scheduler handle job dependencies in a computing environment?
+a. By executing dependent jobs in parallel 
+b. By executing dependent jobs in a specified order
+ c. By executing dependent jobs randomly 
+d. None of the above
+Answer: b. By executing dependent jobs in a specified order
+
+51. What is the purpose of preemption in a scheduler?
+a. To allow higher priority jobs to interrupt the execution of lower priority jobs 
+b. To prevent higher priority jobs from interrupting the execution of lower priority jobs 
+c. To ensure that jobs are executed in the order in which they were submitted 
+d. None of the above
+Answer: a. To allow higher priority jobs to interrupt the execution of lower priority jobs
+
+52. What is the role of a load balancer in a scheduler?
+a. To distribute load evenly across available resources 
+b. To prioritize resource allocation based on job size 
+c. To determine the order in which jobs should be executed 
+d. None of the above
+Answer: a. To distribute load evenly across available resources
+
+53. What is the purpose of backfilling in a scheduler?
+a. To maximize system utilization by filling in idle periods with smaller jobs 
+b. To ensure that the system always has a minimum utilization level 
+c. To prevent smaller jobs from being blocked by larger ones 
+d. None of the above
+Answer: a. To maximize system utilization by filling in idle periods with smaller jobs
+
+54. What is the role of a resource estimator in a scheduler?
+a. To estimate the resources required by a job
+ b. To determine the order in which jobs should be executed
+ c. To monitor the utilization of resources 
+d. None of the above
+Answer: a. To estimate the resources required by a job
+
+55. What is PBS Pro?
+a. A popular batch processing system used in high-performance computing environments 
+b. A virtualization software used to run multiple operating systems on a single machine
+ c. A software suite for managing and processing big data 
+d. None of the above
+Answer: a. A popular batch processing system used in high-performance computing environments
+
+56.  What is SGE?
+a. A popular batch processing system used in high-performance computing environments 
+b. A virtualization software used to run multiple operating systems on a single machine
+ c. A software suite for managing and processing big data 
+d. None of the above
+Answer: a. A popular batch processing system used in high-performance computing environments
+
+57. What are the main features of PBS Pro?
+a. Job scheduling and resource management 
+b. Advanced process management 
+c. Virtualization support 
+d. All of the above
+Answer: a. Job scheduling and resource management
+
+58. What are the main features of SGE?
+a. Job scheduling and resource management 
+b. Advanced process management 
+c. Virtualization support 
+d. All of the above
+Answer: a. Job scheduling and resource management
+
+59. What type of resource manager is PBS Pro?
+a. Load-sharing manager 
+b. Workload manager 
+c. Cluster manager 
+d. None of the above
+Answer: b. Workload manager
+
+60. What type of resource manager is SGE?
+a. Load-sharing manager 
+b. Workload manager 
+c. Cluster manager 
+d. None of the above
+Answer: a. Load-sharing manager
+61. What is the main advantage of using PBS Pro in a high-performance computing environment?
+a. Scalability and reliability 
+b. Advanced process management features 
+c. Integration with a wide range of software tools and platforms 
+d. All of the above
+Answer: a. Scalability and reliability
+
+62. What is the main advantage of using SGE in a high-performance computing environment?
+a. Scalability and reliability 
+b. Advanced process management features 
+c. Integration with a wide range of software tools and platforms 
+d. All of the above
+Answer: c. Integration with a wide range of software tools and platforms
+
+63. What type of workloads are best suited for PBS Pro?
+a. Batch processing jobs
+ b. Interactive and GUI-based applications
+ c. Big data processing jobs 
+d. None of the above
+Answer: a. Batch processing jobs
+
+64.  What type of workloads are best suited for SGE?
+a. Batch processing jobs 
+b. Interactive and GUI-based applications 
+c. Big data processing jobs 
+d. None of the above
+Answer: a. Batch processing jobs
+
+65. What is a resource manager in the context of job scheduling and management?
+a. A tool for managing hardware resources 
+b. A tool for managing software resources 
+c. A tool for managing both hardware and software resources
+Answer: c. A tool for managing both hardware and software resources
+
+66. What is the purpose of a resource manager in job scheduling and management?
+a. To allocate resources to jobs 
+b. To manage job prioritization 
+c. To manage job execution
+Answer: a. To allocate resources to jobs
+
+67.  Which of the following is a common resource manager used in cluster computing?
+a. PBS
+ b. Slurm 
+c. SGE
+Answer: b. Slurm
+
+68. What is the main function of a job scheduler in a resource manager?
+a. To determine the order in which jobs are executed 
+b. To determine the resources allocated to each job 
+c. To monitor and control the execution of jobs
+Answer: a. To determine the order in which jobs are executed
+
+69. What is a batch job in the context of job scheduling and management?
+a. A job that is executed interactively 
+b. A job that is executed in the background 
+c. A job that is executed on a remote server
+Answer: b. A job that is executed in the background
+
+70. What is the purpose of a batch script in job scheduling and management?
+a. To specify the resources required by a job 
+b. To specify the commands that are executed by a job
+ c. To specify both the resources required and the commands executed by a job
+Answer: c. To specify both the resources required and the commands executed by a job
+
+71. Which of the following is a common command used to submit a batch job to a resource manager?
+a. run
+ b. submitt 
+c. qsub
+Answer: c. qsub
+
+72. What is the purpose of the job queue in a resource manager?
+a. To store the resources available for job execution 
+b. To store the jobs waiting to be executed 
+c. To store the status of each job
+Answer: b. To store the jobs waiting to be executed
+
+73. What is Slurm?
+a. A popular batch processing system used in high-performance computing environments 
+b. A virtualization software used to run multiple operating systems on a single machine 
+c. A software suite for managing and processing big data 
+d. None of the above
+Answer: a. A popular batch processing system used in high-performance computing environments
+
+74. What are the main features of Slurm?
+a. Job scheduling and resource management 
+b. Advanced process management 
+c. Virtualization support 
+d. All of the above
+Answer: a. Job scheduling and resource management
+
+75. What type of resource manager is Slurm?
+a. Load-sharing manager
+ b. Workload manager 
+c. Cluster manager 
+d. None of the above
+Answer: b. Workload manager
+
+76. What is the main advantage of using Slurm in a high-performance computing environment?
+a. Scalability and reliability
+ b. Advanced process management features 
+c. Integration with a wide range of software tools and platforms 
+d. All of the above
+Answer: a. Scalability and reliability
+
+77. What type of workloads are best suited for Slurm?
+a. Batch processing jobs 
+b. Interactive and GUI-based applications 
+c. Big data processing jobs 
+d. None of the above
+Answer: a. Batch processing jobs
+
+78. Does Slurm support hierarchical resource management?
+a. Yes 
+b. No
+Answer: a. Yes
+
+79. Does Slurm support advanced process management features such as checkpoint/restart and job preemption?
+a. Yes 
+b. No
+Answer: a. Yes
+80. What operating systems does Slurm support?
+a. Linux 
+b. Windows
+ c. MacOS 
+d. All of the above
+Answer: a. Linux
+
+81. What is the main use case for Slurm in a high-performance computing environment?
+a. Batch processing of large-scale scientific simulations and data analysis jobs 
+b. Interactive and GUI-based applications 
+c. Web server hosting 
+d. None of the above
+Answer: a. Batch processing of large-scale scientific simulations and data analysis jobs
+
+82. Does Slurm support integration with cloud computing environments?
+a. Yes 
+b. No
+Answer: a. Yes
+
+83. What is srun in Slurm?
+a. A command used to submit jobs to the Slurm scheduler 
+b. A command used to manage running jobs in the Slurm environment 
+c. A command used to query information about the Slurm environment 
+d. All of the above
+Answer: a. A command used to submit jobs to the Slurm scheduler
+
+84. What is scontrol in Slurm?
+a. A command used to submit jobs to the Slurm scheduler 
+b. A command used to manage running jobs in the Slurm environment 
+c. A command used to query information about the Slurm environment 
+d. All of the above
+Answer: b. A command used to manage running jobs in the Slurm environment
+
+85. What is squeue in Slurm?
+a. A command used to submit jobs to the Slurm scheduler
+ b. A command used to manage running jobs in the Slurm environment 
+c. A command used to query information about the Slurm environment
+ d. All of the above
+Answer: c. A command used to query information about the Slurm environment
+
+86. Does Slurm support job arrays?
+a. Yes 
+b. No
+Answer: a. Yes
+
+87. Does Slurm support parallel processing using MPI?
+a. Yes 
+b. No
+Answer: a. Yes
+
+88. What is the main configuration file for Slurm?
+a. slurm.conf
+ b. slurm.cfg 
+c. slurm.ini 
+d. None of the above
+Answer: a. slurm.conf
+
+89. What is the main log file for Slurm?
+a. slurm.log
+ b. slurmctld.log 
+c. slurmd.log 
+d. None of the above
+Answer: b. slurmctld.log
+
+90. What is the purpose of the slurmd daemon in Slurm?
+a. To manage job submissions and resource allocation 
+b. To manage running jobs and monitor system resources
+ c. To monitor job completion and provide job status information 
+d. All of the above
+Answer: b. To manage running jobs and monitor system resources
+
+91. Does Slurm support dynamic node configuration?
+a. Yes 
+b. No
+Answer: a. Yes
+
+92. Does Slurm support job priority management?
+a. Yes 
+b. No
+Answer: a. Yes
+
+93. What is the command to submit a job to Slurm?
+a. sbatch 
+b. srun 
+c. scontrol 
+d. squeue
+Answer: a. sbatch
+
+94. What is the command to manage running jobs in Slurm?
+a. sbatch 
+b. srun
+ c. scontrol 
+d. squeue
+Answer: c. scontrol
+
+95. What is the command to query information about Slurm jobs?
+a. sbatch 
+b. srun 
+c. scontrol 
+d. squeue
+Answer: d. squeue
+
+96. How can you check the status of a Slurm job?
+a. Using the sbatch command 
+b. Using the srun command 
+c. Using the scontrol command 
+d. Using the squeue command
+Answer: d. Using the squeue command
+
+97. How can you cancel a Slurm job?
+a. Using the sbatch command 
+b. Using the srun command 
+c. Using the scontrol command 
+d. Using the squeue command
+Answer: c. Using the scontrol command
+
+98. Can you resubmit a failed Slurm job?
+a. Yes 
+b. No
+Answer: a. Yes
+99. How can you modify a submitted Slurm job?
+a. Using the sbatch command 
+b. Using the srun command 
+c. Using the scontrol command 
+d. Using the squeue command
+Answer: c. Using the scontrol command
+
+100. How can you monitor resource utilization of a Slurm job?
+a. Using the sbatch command 
+b. Using the srun command 
+c. Using the scontrol command 
+d. Using the squeue command
+Answer: d. Using the squeue command
+
+101. How can you specify resources required for a Slurm job?
+a. Using the sbatch command 
+b. Using the srun command 
+c. Using the scontrol command 
+d. Using the squeue command
+Answer: a. Using the sbatch command
+
+102. Can you specify a job dependency in Slurm?
+a. Yes
+ b. No
+Answer: a. Yes
+
+103. What is the first line in a Slurm batch script?
+a. #!/bin/bash 
+b. #!/bin/sh 
+c. #!/usr/bin/env bash 
+d. #!/usr/bin/env sh
+Answer: a. #!/bin/bash
+
+104. How do you specify the name of a Slurm job?
+a. --job-name=test_job 
+b. --name=test_job 
+c. -N test_job 
+d. -j test_job
+Answer: a. --job-name=test_job
+
+105. How do you specify the standard output file for a Slurm job?
+a. --stdout=test_job.out 
+b. --output=test_job.out
+ c. -o test_job.out 
+d. -O test_job.out
+Answer: b. --output=test_job.out
+
+106. How do you specify the standard error file for a Slurm job?
+a. --stderr=test_job.err 
+b. --error=test_job.err 
+c. -e test_job.err 
+d. -E test_job.err
+Answer: b. --error=test_job.err
+
+107. How do you specify the number of nodes for a Slurm job?
+a. --nodes=1 
+b. -n 1 
+c. -N 1 
+d. -node 1
+Answer: a. --nodes=1
+108. How do you specify the number of tasks per node for a Slurm job?
+a. --ntasks-per-node=1
+ b. --tasks-per-node=1 
+c. -t 1 
+d. -T 1
+Answer: a. --ntasks-per-node=1
+
+109. How do you specify the maximum running time for a Slurm job?
+a. --time=00:05:00 
+b. --run-time=00:05:00 
+c. -t 00:05:00 
+d. -T 00:05:00
+Answer: a. --time=00:05:00
+
+110. How do you submit a Slurm batch script?
+a. sbatch test_job.sh 
+b. run test_job.sh 
+c. submit test_job.sh 
+d. execute test_job.sh
+Answer: a. sbatch test_job.sh
+
+111. How do you add commands to be executed as part of a Slurm job?
+a. By writing them directly in the script 
+b. By specifying them in a separate file 
+c. By using the srun command 
+d. By using the scontrol command
+Answer: a. By writing them directly in the script
+
+112. Can you specify resource requirements for a Slurm job in the batch script?
+a. Yes 
+b. No
+Answer: a. Yes
+
+113. What is application level checkpointing?
+a. Saving the state of a running application to disk 
+b. Saving the state of a running application in memory 
+c. Saving the state of a running application to a remote location 
+d. Saving the state of a running application to a file
+Answer: a. Saving the state of a running application to disk
+
+114. Why is application level checkpointing important?
+a. To avoid data loss in case of system failure 
+b. To save time in case of long running jobs 
+c. To improve the performance of an application 
+d. To provide a backup of the application state
+Answer: a. To avoid data loss in case of system failure
+
+115. What are the benefits of using application level checkpointing over system level checkpointing?
+a. Allows for fine-grained control over checkpointing 
+b. Can handle large-scale parallel applications 
+c. Is more flexible and adaptable 
+d. All of the above
+Answer: d. All of the above
+
+116. What is the role of the resource manager in application level checkpointing?
+a. To initiate checkpointing of the application 
+b. To manage the storage of checkpoint files 
+c. To provide the application with the necessary libraries and tools to perform checkpointing 
+d. All of the above
+Answer: c. To provide the application with the necessary libraries and tools to perform checkpointing
+117. How does application level checkpointing impact the performance of the application?
+a. It slows down the application 
+b. It speeds up the application 
+c. It has no impact on the performance of the application 
+d. It depends on the implementation of the checkpointing mechanism
+Answer: d. It depends on the implementation of the checkpointing mechanism
+
+118. What are the common challenges in implementing application level checkpointing?
+a. Integration with the resource manager 
+b. Complexity of the checkpointing process 
+c. Overhead of writing and reading checkpoint files 
+d. All of the above
+Answer: d. All of the above
+
+119. How does application level checkpointing work in a cluster environment?
+a. By saving the state of all nodes in the cluster
+ b. By saving the state of individual nodes in the cluster 
+c. By saving the state of all processes in the cluster 
+d. By saving the state of individual processes in the cluster
+Answer: b. By saving the state of individual nodes in the cluster
+
+120. What is the role of the checkpoint library in application level checkpointing?
+a. To manage the checkpointing process 
+b. To store the checkpoint data 
+c. To provide a user-friendly interface for checkpointing 
+d. All of the above
+Answer: a. To manage the checkpointing process
+
+121. What is the impact of frequent checkpointing on the performance of the application?
+a. It improves the performance 
+b. It has no impact 
+c. It slows down the application 
+d. It depends on the size of the checkpoint files
+Answer: c. It slows down the application
+
+122. What is the difference between incremental and full checkpointing?
+a. Incremental checkpointing saves only the changes since the last checkpoint, full checkpointing saves the entire state of the application 
+b. Full checkpointing saves only the changes since the last checkpoint, incremental checkpointing saves the entire state of the application 
+c. Both incremental and full checkpointing save the entire state of the application
+ d. Both incremental and full checkpointing save only the changes since the last checkpoint
+Answer: a. Incremental checkpointing saves only the changes since the last checkpoint, full checkpointing saves the entire state of the application
+
+123. What is the role of the checkpoint manager in application level checkpointing?
+a. To manage the storage and retrieval of checkpoint files
+ b. To schedule the checkpointing process 
+c. To provide an interface for checkpoint file management 
+d. All of the above
+Answer: d. All of the above
+
+124. How does application level checkpointing impact the recoverability of the application?
+a. It improves the recoverability of the application 
+b. It has no impact on the recoverability of the application 
+c. It decreases the recoverability of the application 
+d. It depends on the implementation of the checkpointing mechanism
+Answer: a. It improves the recoverability of the application.
+
+125. What is a node in a resource manager?
+a. A physical server
+ b. A virtual machine 
+c. A logical unit of computing resources 
+d. Both a and c
+Answer: d. Both a physical server and a logical unit of computing resources.
+
+126. What is the purpose of node management in a resource manager?
+a. To allocate computing resources to users 
+b. To monitor and control the usage of computing resources 
+c. To optimize the utilization of computing resources 
+d. All of the above
+Answer: d. All of the above
+
+127. What is the impact of adding or removing a node on the resource manager?
+a. It has no impact 
+b. It increases the available computing resources 
+c. It decreases the available computing resources 
+d. It depends on the number of nodes and the configuration of the resource manager
+Answer: d. It depends on the number of nodes and the configuration of the resource manager
+
+128. How does the resource manager determine which node to allocate to a job?
+a. Based on the available resources on each node 
+b. Based on the priority of the job 
+c. Based on the configuration of the resource manager 
+d. All of the above
+Answer: a. Based on the available resources on each node
+
+130. What is the role of node attributes in node management in a resource manager?
+a. To specify the resources available on each node 
+b. To prioritize the allocation of nodes to jobs 
+c. To specify the usage restrictions on each node 
+d. All of the above
+Answer: d. All of the above
+
+131. How does the resource manager handle node failures in a cluster?
+a. By automatically restarting the failed node
+ b. By reallocating the resources from the failed node to other nodes 
+c. By automatically notifying the administrator of the failure 
+d. All of the above
+Answer: b. By reallocating the resources from the failed node to other nodes
+
+132.  What is the main purpose of server scheduling policies in a resource manager?
+A. To manage server resources 
+B. To monitor server performance 
+C. To control access to server resources 
+D. To allocate server resources
+Answer: D. To allocate server resources
+
+133. What is the most common method for setting server scheduling policies in a resource manager?
+A. Using command line arguments
+ B. Editing configuration files 
+C. GUI-based tools 
+D. Writing custom code
+Answer: B. Editing configuration files
+
+134. What is the role of the scheduler in a resource manager?
+A. To enforce policies for allocating resources
+ B. To track resource usage
+ C. To set resource limits
+ D. To control access to resources
+Answer: A. To enforce policies for allocating resources
+
+135.  What are the benefits of setting server scheduling policies in a resource manager?
+A. Improved resource utilization
+ B. Better server performance 
+C. Better user experience 
+D. All of the above
+Answer: D. All of the above.
+
+136. What is the primary benefit of using a resource manager in a server environment?
+A. Improved server performance
+B. Better resource utilization 
+C. Improved scalability 
+D. All of the above
+Answer: D. All of the above
+
+137. What are the different types of server scheduling policies in a resource manager?
+A. Round Robin 
+B. First-Come-First-Served 
+C. Priority-based
+ D. All of the above
+Answer: D. All of the above
+
+138. What is the purpose of setting priorities in a server scheduling policy?
+A. To determine the order in which requests are processed 
+B. To allocate resources based on need 
+C. To ensure fairness in resource allocation 
+D. All of the above
+Answer: D. All of the above
+
+139. What is the main advantage of using a resource manager in a multi-user server environment?
+A. Improved security 
+B. Better resource allocation 
+C. Improved reliability 
+D. All of the above
+Answer: B. Better resource allocation
+
+140.  What is the purpose of scheduler integration?
+a. To manage the allocation of computational resources in a cluster or supercomputer environment
+ b. To develop a scheduling system 
+c. To provide advanced features for managing HPC environments 
+d. To create a commercial scheduler
+Answer: a. To manage the allocation of computational resources in a cluster or supercomputer environment
+
+141.  What is Maui?
+a. A commercial scheduler from the company Adaptive Computing 
+b. A popular open-source scheduler for cluster and grid computing environments
+ c. A scheduling system for managing HPC environments 
+d. A resource manager for allocation of computational resources
+Answer: b. A popular open-source scheduler for cluster and grid computing environments
+
+142. What is Moab?
+a. A popular open-source scheduler for cluster and grid computing environments 
+b. A commercial scheduler from the company Adaptive Computing 
+c. A scheduling system for managing HPC environments 
+d. A resource manager for allocation of computational resources
+Answer: b. A commercial scheduler from the company Adaptive Computing
+
+143. Which of the following is a resource manager?
+a. Maui 
+b. Moab 
+c. Both a and b
+Answer: c. Both a and b
+
+144.  What is the purpose of a resource manager in a HPC environment? 
+a. To manage the allocation of resources such as compute nodes, memory, and storage
+b. To manage the distribution of data 
+c. To manage the scheduling of jobs
+Answer: a. To manage the allocation of resources such as compute nodes, memory, and storage
+
+145. What is Maui used for in a HPC environment?
+a. To manage the allocation of resources 
+b. To manage the distribution of data 
+c. To manage the scheduling of jobs
+Answer: c. To manage the scheduling of jobs
+
+146. What is Moab used for in a HPC environment?
+a. To manage the allocation of resources 
+b. To manage the distribution of data 
+c. To manage the scheduling of jobs
+Answer: a. To manage the allocation of resources.
+
+147. What information is typically included in the accounting records of a resource manager?
+a. Jobs information 
+b. Resources information 
+c. Users information 
+d. All of the above
+Answer: d. All of the above
+
+148. What information is included in the "jobs information" section of the accounting records?
+a. Job id 
+b. User 
+c. Start time 
+d. All of the above
+Answer: d. All of the above
+
+149. What information is included in the "resources information" section of the accounting records?
+a. Node information 
+b. Core information 
+c. Memory information 
+d. All of the above
+Answer: d. All of the above
+
+150. What information is included in the "users information" section of the accounting records?
+a. User id 
+b. Group 
+c. Project 
+d. All of the above
+Answer: d. All of the above
+
+151. What type of information is included in the "accounting policies" section of the accounting records?
+a. Priority schemes 
+b. Allocation rules 
+c. Usage limits 
+d. All of the above
+Answer: d. All of the above
+
+152.  Which of the following is not typically included in the accounting records of a resource manager?
+a. Job id 
+b. Resource utilization 
+c. User favorite color 
+d. End time
+Answer: c. User favorite color
+
+153. What type of information is included in the resource utilization section of the accounting records?
+a. CPU time 
+b. Memory usage 
+c. Disk space usage 
+d. All of the above
+Answer: d. All of the above
+
+154. What type of information is included in the resource allocation section of the accounting records?
+a. Node allocation
+ b. Core allocation 
+c. Memory allocation 
+d. All of the above
+Answer: d. All of the above
+
+155.  What is the Gold Allocation Manager used for in an HPC environment?
+ a. To manage the allocation of resources such as compute nodes, memory, and storage
+b. To manage the distribution of data
+ c. To manage the scheduling of jobs
+Answer: a. To manage the allocation of resources such as compute nodes, memory, and storage
+
+156. What is the main advantage of using the Gold Allocation Manager compared to traditional resource managers?
+a. It provides a more flexible process for resource allocation 
+b. It provides a more transparent process for resource allocation 
+c. Both a and b
+Answer: c. Both a and b
+
+157. How does the Gold Allocation Manager manage resource allocation?
+a. By using a fixed allocation 
+b. By using a first-come-first-served approach 
+c. By evaluating and approving or rejecting user proposals for resource allocation
+Answer: c. By evaluating and approving or rejecting user proposals for resource allocation
+
+158. Who is responsible for evaluating and approving or rejecting user proposals for resource allocation in the Gold Allocation Manager?
+a. The users 
+b. An administrator
+Answer: b. An administrator
+
+159. Can the Gold Allocation Manager be used to manage the scheduling of jobs?
+a. Yes 
+b. No
+Answer: b. No
+
+160. What is the role of the user in the resource allocation process with the Gold Allocation Manager?
+a. To evaluate and approve or reject proposals for resource allocation 
+b. To submit proposals for resource allocation 
+c. To manage the allocation of resources
+Answer: b. To submit proposals for resource allocation
+
+161. Can the Gold Allocation Manager provide real-time updates on the status of resource allocation?
+a. Yes 
+b. No
+Answer: a. Yes (depending on the implementation)
+
+162. Can the Gold Allocation Manager be used in a hybrid environment with other resource managers?
+a. Yes 
+b. No
+Answer: a. Yes (depending on the implementation)
+
+163. What type of resources can the Gold Allocation Manager manage the allocation of?
+a. Compute nodes 
+b. Memory 
+c. Storage 
+d. All of the above
+Answer: d. All of the above
+164. What happens if a user proposal for resource allocation is rejected by the administrator in the Gold Allocation Manager?
+a. The user can resubmit the proposal 
+b. The user has to submit a new proposal 
+c. The user cannot use the resource
+Answer: b. The user has to submit a new proposal
+
+165. Is the Gold Allocation Manager open source software?
+a. Yes 
+b. No
+Answer: a. Yes (depending on the implementation)
+
+166.  Does the Gold Allocation Manager provide detailed reports on resource utilization and allocation?
+a. Yes 
+b. No
+Answer: a. Yes (depending on the implementation)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
