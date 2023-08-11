@@ -1,0 +1,1275 @@
+https://www.sanfoundry.com/1000-hadoop-questions-answers/
+
+1.IBM and ________ have announced a major initiative to use Hadoop to support university courses in distributed computer programming.
+a) Google Latitude
+b) Android (operating system)
+c) Google Variations
+d) Google
+View Answer
+Answer: d
+Explanation: Google and IBM Announce University Initiative to Address Internet-Scale.
+2. Point out the correct statement.
+a) Hadoop is an ideal environment for extracting and transforming small volumes of data
+b) Hadoop stores data in HDFS and supports data compression/decompression
+c) The Giraph framework is less useful than a MapReduce job to solve graph and machine learning
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Data compression can be achieved using compression algorithms like bzip2, gzip, LZO, etc. Different algorithms can be used in different scenarios based on their capabilities.
+3. What license is Hadoop distributed under?
+a) Apache License 2.0
+b) Mozilla Public License
+c) Shareware
+d) Commercial
+View Answer
+Answer: a
+Explanation: Hadoop is Open Source, released under Apache 2 license.
+4. Sun also has the Hadoop Live CD ________ project, which allows running a fully functional Hadoop cluster using a live CD.
+a) OpenOffice.org
+b) OpenSolaris
+c) GNU
+d) Linux
+View Answer
+Answer: b
+Explanation: The OpenSolaris Hadoop LiveCD project built a bootable CD-ROM image. 
+5. Which of the following genres does Hadoop produce?
+a) Distributed file system
+b) JAX-RS
+c) Java Message Service
+d) Relational Database Management System
+View Answer
+Answer: a
+Explanation: The Hadoop Distributed File System (HDFS) is designed to store very large data sets reliably, and to stream those data sets at high bandwidth to the user.
+6. What was Hadoop written in?
+a) Java (software platform)
+b) Perl
+c) Java (programming language)
+d) Lua (programming language)
+View Answer
+Answer: c
+Explanation: The Hadoop framework itself is mostly written in the Java programming language, with some native code in C and command-line utilities written as shell scripts.
+7. Which of the following platforms does Hadoop run on?
+a) Bare metal
+b) Debian
+c) Cross-platform-The cross-platform or multiplatform software is a type of application / program / software that works on various operating systems or devices, which are often called platforms. A platform means an operating system such as Windows, Mac OS, Android, or iOS
+d) Unix-like
+View Answer
+Answer: c
+Explanation: Hadoop has support for cross-platform operating system.
+8. Hadoop achieves reliability by replicating the data across multiple hosts and hence does not require ________ storage on hosts.
+a) RAID
+b) Standard RAID levels
+c) ZFS
+d) Operating system
+View Answer
+Answer: a
+Explanation: With the default replication value, 3, data is stored on three nodes: two on the same rack, and one on a different rack.
+9. Above the file systems comes the ________ engine, which consists of one Job Tracker, to which client applications submit MapReduce jobs.
+a) MapReduce
+b) Google
+c) Functional programming
+d) Facebook
+View Answer
+Answer: a
+Explanation: MapReduce engine uses to distribute work around a cluster.
+10. The Hadoop list includes the HBase database, the Apache Mahout ________ system, and matrix operations.
+a) Machine learning
+b) Pattern recognition
+c) Statistical classification
+d) Artificial intelligence
+View Answer
+Answer: a
+Explanation: The Apache Mahout project’s goal is to build a scalable machine learning tool.
+
+(MCQs) focuses on “Big-Data”.
+1. As companies move past the experimental phase with Hadoop, many cite the need for additional capabilities, including _______________
+a) Improved data storage and information retrieval
+b) Improved extract, transform and load features for data integration
+c) Improved data warehousing functionality
+d) Improved security, workload management, and SQL support
+Answer: d
+Explanation: Adding security to Hadoop is challenging because all the interactions do not follow the classic client-server pattern.
+2. Point out the correct statement.
+a) Hadoop do need specialized hardware to process the data
+b) Hadoop 2.0 allows live stream processing of real-time data
+c) In the Hadoop programming framework output files are divided into lines or records
+d) None of the mentioned
+Answer: b
+Explanation: Hadoop batch processes data distributed over a number of computers ranging in 100s and 1000s.
+3. According to analysts, for what can traditional IT systems provide a foundation when they’re integrated with big data technologies like Hadoop?
+a) Big data management and data mining
+b) Data warehousing and business intelligence
+c) Management of Hadoop clusters
+d) Collecting and storing unstructured data
+Answer: a
+Explanation: Data warehousing integrated with Hadoop would give a better understanding of data.
+4. Hadoop is a framework that works with a variety of related tools. Common cohorts include ____________
+a) MapReduce, Hive and HBase
+b) MapReduce, MySQL and Google Apps
+c) MapReduce, Hummer and Iguana
+d) MapReduce, Heron and Trumpet
+View Answer
+Answer: a
+Explanation: To use Hive with HBase you’ll typically want to launch two clusters, one to run HBase and the other to run Hive.
+advertisement
+5. Point out the wrong statement. 
+a) Hardtop processing capabilities are huge and its real advantage lies in the ability to process terabytes & petabytes of data
+b) Hadoop uses a programming model called “MapReduce”, all the programs should conform to this model in order to work on the Hadoop platform
+c) The programming model, MapReduce, used by Hadoop is difficult to write and test
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: The programming model, MapReduce, used by Hadoop is simple to write and test.
+6. What was Hadoop named after?
+a) Creator Doug Cutting’s favorite circus act
+b) Cutting’s high school rock band
+c) The toy elephant of Cutting’s son
+d) A sound Cutting’s laptop made during Hadoop development
+
+7. All of the following accurately describe Hadoop, EXCEPT ____________
+a) Open-source
+b) Real-time
+c) Java-based
+d) Distributed computing approach
+nswer: b
+Explanation: Apache Hadoop is an open-source software framework for distributed storage and distributed processing of Big Data on clusters of commodity hardware.
+8. __________ can best be described as a programming model used to develop Hadoop-based applications that can process massive amounts of data.
+a) MapReduce
+b) Mahout
+c) Oozie
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: MapReduce is a programming model and an associated implementation for processing and generating large data sets with a parallel, distributed algorithm.
+9. __________ has the world’s largest Hadoop cluster.
+a) Apple
+b) Datamatics
+c) Facebook
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Facebook has many Hadoop clusters, the largest among them is the one that is used for Data warehousing.
+10. Facebook Tackles Big Data With _______ based on Hadoop.
+a) ‘Project Prism’
+b) ‘Prism’
+c) ‘Project Big’
+d) ‘Project Data’
+View Answer
+Answer: a
+Explanation: Prism automatically replicates and moves data wherever it’s needed across a vast network of computing facilities.
+Hadoop Questions and Answers – Hadoop Ecosystem
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Hadoop Ecosystem”.
+1. ________ is a platform for constructing data flows for extract, transform, and load (ETL) processing and analysis of large datasets.
+a) Pig Latin
+b) Oozie
+c) Pig
+d) Hive
+View Answer
+Answer: c
+Explanation: Apache Pig is a platform for analyzing large data sets that consists of a high-level language for expressing data analysis programs.
+2. Point out the correct statement.
+a) Hive is not a relational database, but a query engine that supports the parts of SQL specific to querying data
+b) Hive is a relational database with SQL support
+c) Pig is a relational database with SQL support
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Hive is a SQL-based data warehouse system for Hadoop that facilitates data summarization, ad hoc queries, and the analysis of large datasets stored in Hadoop-compatible file systems.
+3. _________ hides the limitations of Java behind a powerful and concise Clojure API for Cascading.
+a) Scalding
+b) HCatalog
+c) Cascalog
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: Cascalog also adds Logic Programming concepts inspired by Datalog. Hence the name “Cascalog” is a contraction of Cascading and Datalog. 
+4. Hive also support custom extensions written in ____________
+a) C#
+b) Java
+c) C
+d) C++
+View Answer
+Answer: b
+Explanation: Hive also supports custom extensions written in Java, including user-defined functions (UDFs) and serializer-deserializers for reading and optionally writing custom formats.
+Subscribe Now: Hadoop Newsletter | Important Subjects Newsletters
+advertisement
+5. Point out the wrong statement.
+a) Elastic MapReduce (EMR) is Facebook’s packaged Hadoop offering
+b) Amazon Web Service Elastic MapReduce (EMR) is Amazon’s packaged Hadoop offering
+c) Scalding is a Scala API on top of Cascading that removes most Java boilerplate
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Rather than building Hadoop deployments manually on EC2 (Elastic Compute Cloud) clusters, users can spin up fully configured Hadoop installations using simple invocation commands, either through the AWS Web Console or through command-line tools.
+6. ________ is the most popular high-level Java API in Hadoop Ecosystem
+a) Scalding
+b) HCatalog
+c) Cascalog
+d) Cascading
+View Answer
+Answer: d
+Explanation: Cascading hides many of the complexities of MapReduce programming behind more intuitive pipes and data flow abstractions.
+Become Top Ranker in Hadoop Now! 
+7. ___________ is general-purpose computing model and runtime system for distributed data analytics.
+a) Mapreduce
+b) Drill
+c) Oozie
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Mapreduce provides a flexible and scalable foundation for analytics, from traditional reporting to leading-edge machine learning algorithms.
+8. The Pig Latin scripting language is not only a higher-level data flow language but also has operators similar to ____________
+a) SQL
+b) JSON
+c) XML
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Pig Latin, in essence, is designed to fill the gap between the declarative style of SQL and the low-level procedural style of MapReduce.
+9. _______ jobs are optimized for scalability but not latency.
+a) Mapreduce
+b) Drill
+c) Oozie
+d) Hive
+View Answer
+Answer: d
+Explanation: Hive Queries are translated to MapReduce jobs to exploit the scalability of MapReduce.
+10. ______ is a framework for performing remote procedure calls and data serialization.
+a) Drill
+b) BigTop
+c) Avro
+d) Chukwa
+View Answer
+Answer: c
+Explanation: In the context of Hadoop, Avro can be used to pass data from one program or language to another.
+
+
+Hadoop Questions and Answers – Introduction to HDFS
+« Prev 
+Next » 
+This set of Multiple Choice Questions & Answers (MCQs) focuses on “Introduction to HDFS”.
+1. A ________ serves as the master and there is only one NameNode per cluster.
+a) Data Node
+b) NameNode
+c) Data block
+d) Replication
+View Answer
+Answer: b
+Explanation: All the metadata related to HDFS including the information about data nodes, files stored on HDFS, and Replication, etc. are stored and maintained on the NameNode.
+2. Point out the correct statement.
+a) DataNode is the slave/worker node and holds the user data in the form of Data Blocks
+b) Each incoming file is broken into 32 MB by default
+c) Data blocks are replicated across different nodes in the cluster to ensure a low degree of fault tolerance
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: There can be any number of DataNodes in a Hadoop Cluster.
+3. HDFS works in a __________ fashion.
+a) master-worker
+b) master-slave
+c) worker/slave
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: NameNode servers as the master and each DataNode servers as a worker/slave
+4. ________ NameNode is used when the Primary NameNode goes down.
+a) Rack
+b) Data
+c) Secondary
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Secondary namenode is used for all time availability and reliability.
+5. Point out the wrong statement.
+a) Replication Factor can be configured at a cluster level (Default is set to 3) and also at a file level
+b) Block Report from each DataNode contains a list of all the blocks that are stored on that DataNode
+c) User data is stored on the local file system of DataNodes
+d) DataNode is aware of the files to which the blocks stored on it belong to
+View Answer
+Answer: d
+Explanation: NameNode is aware of the files to which the blocks stored on it belong to.
+6. Which of the following scenario may not be a good fit for HDFS?
+a) HDFS is not suitable for scenarios requiring multiple/simultaneous writes to the same file
+b) HDFS is suitable for storing data related to applications requiring low latency data access
+c) HDFS is suitable for storing data related to applications requiring low latency data access
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: HDFS can be used for storing archive data since it is cheaper as HDFS allows storing the data on low cost commodity hardware while ensuring a high degree of fault-tolerance.
+7. The need for data replication can arise in various scenarios like ____________
+a) Replication Factor is changed
+b) DataNode goes down
+c) Data Blocks get corrupted
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: Data is replicated across different DataNodes to ensure a high degree of fault-tolerance.
+8. ________ is the slave/worker node and holds the user data in the form of Data Blocks.
+a) DataNode
+b) NameNode
+c) Data block
+d) Replication
+View Answer
+Answer: a
+Explanation: A DataNode stores data in the [HadoopFileSystem]. A functional filesystem has more than one DataNode, with data replicated across them.
+9. HDFS provides a command line interface called __________ used to interact with HDFS.
+a) “HDFS Shell”
+b) “FS Shell”
+c) “DFS Shell”
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The File System (FS) shell includes various shell-like commands that directly interact with the Hadoop Distributed File System (HDFS).
+10. HDFS is implemented in _____________ programming language.
+a) C++
+b) Java
+c) Scala
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: HDFS is implemented in Java and any computer which can run Java can host a NameNode/DataNode on it.
+11. For YARN, the ___________ Manager UI provides host and port information.
+a) Data Node
+b) NameNode
+c) Resource
+d) Replication
+View Answer
+Answer: c
+Explanation: All the metadata related to HDFS including 
+the information about data nodes, files stored on HDFS, and Replication, etc. are stored and maintained on the NameNode.
+12. Point out the correct statement.
+a) The Hadoop framework publishes the job flow status to an internally running web server on the master nodes of the Hadoop cluster
+b) Each incoming file is broken into 32 MB by default
+c) Data blocks are replicated across different nodes in the cluster to ensure a low degree of fault tolerance
+d) None of the mentioned
+Answer: a
+Explanation: The web interface for the Hadoop Distributed File System (HDFS) shows information about the NameNode itself.
+13. For ________ the HBase Master UI provides information about the HBase Master uptime.
+a) HBase
+b) Oozie
+c) Kafka
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: HBase Master UI provides information about the number of live, dead and transitional servers, logs, ZooKeeper information, debug dumps, and thread stacks.
+14. During start up, the ___________ loads the file system state from the fsimage and the edits log file.
+a) DataNode
+b) NameNode  ====or as well as secondary namenode 
+c) ActionNode
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: HDFS is implemented on any computer which can run Java can host a NameNode/DataNode on it
+Hadoop Questions and Answers – HDFS Administration
+ (MCQs) focuses on “HDFS Administration”.
+1. Which hdfs command is used to check for various inconsistencies?
+a) fsk
+b) fsck
+c) fetchdt
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: fsck is designed for reporting problems with various files, for example, missing blocks for a file or under-replicated blocks.
+2. Point out the correct statement.
+a) All hadoop commands are invoked by the bin/hadoop script
+b) Hadoop has an option parsing framework that employs only parsing generic options
+c) Archive command creates a hadoop archive
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Running the hadoop script without any arguments prints the description for all commands.
+3. HDFS supports the ____________ command to fetch Delegation Token and store it in a file on the local system.
+a) fetdt
+b) fetchdt
+c) fsk
+d) rec
+View Answer
+Answer: b
+Explanation: Delegation token can be later used to access secure server from a non secure client.
+4. In ___________ mode, the NameNode will interactively prompt you at the command line about possible courses of action you can take to recover your data.
+a) full
+b) partial
+c) recovery
+d) commit
+View Answer
+Answer: c
+Explanation: Recovery mode can cause you to lose data, you should always backup your edit log and fsimage before using it.
+
+5. Point out the wrong statement.
+a) classNAME displays the class name needed to get the Hadoop jar
+b) Balancer Runs a cluster balancing utility
+c) An administrator can simply press Ctrl-C to stop the rebalancing process
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: classpath prints the class path needed to get the Hadoop jar and the required libraries.
+6. _________ command is used to copy file or directories recursively.
+a) dtcp
+b) distcp
+c) dcp
+d) distc
+View Answer
+Answer: b
+Explanation: Usage of the distcp command: hadoop distcp <srcurl> <desturl>.
+7. __________ mode is a Namenode state in which it does not accept changes to the name space.
+a) Recover
+b) Safe
+c) Rollback
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: dfsadmin runs a HDFS dfsadmin client.
+8. __________ command is used to interact and view Job Queue information in HDFS.
+a) queue
+b) priority
+c) dist
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: Hadoop script can be used to invoke any class.
+9. Which of the following command runs the HDFS secondary namenode?
+a) secondary namenode
+b) secondarynamenode
+c) secondary_namenode
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: The secondary NameNode merges the fsimage and the edits log files periodically and keeps edits log size within a limit.
+10. Which of the following is used for the MapReduce job Tracker node?
+a) mradmin
+b) tasktracker
+c) jobtracker
+d) none of the mentioned
+View Answer
+Answer: c
+Explanation: tasktracker runs a MapReduce task Tracker node
+
+Hadoop Questions and Answers – HDFS Maintenance
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “HDFS Maintenance”.
+1. Which of the following is a common hadoop maintenance issue?
+a) Lack of tools
+b) Lack of configuration management
+c) Lack of web interface
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Without a centralized configuration management framework, you end up with a number of issues that can cascade just as your usage picks up.
+2. Point out the correct statement.
+a) RAID is turned off by default
+b) Hadoop is designed to be a highly redundant distributed system
+c) Hadoop has a networked configuration system
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Hadoop deployment is sometimes difficult to implement.
+3. ___________ mode allows you to suppress alerts for a host, service, role, or even the entire cluster.
+a) Safe
+b) Maintenance
+c) Secure
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: Maintenance mode can be useful when you need to take actions in your cluster and do not want to see the alerts that will be generated due to those actions.
+4. Which of the following is a configuration management system?
+a) Alex
+b) Puppet
+c) Acem
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Administrators may use configuration management systems such as Puppet and Chef to manage processes.
+
+5. Point out the wrong statement.
+a) If you set the HBase service into maintenance mode, then its roles (HBase Master and all Region Servers) are put into effective maintenance mode
+b) If you set a host into maintenance mode, then any roles running on that host are put into effective maintenance mode
+c) Putting a component into maintenance mode prevent events from being logged
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Maintenance mode only suppresses the alerts that those events would otherwise generate.
+6. Which of the following is a common reason to restart hadoop process?
+a) Upgrade Hadoop
+b) React to incidents
+c) Remove worker nodes
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: The most common reason administrators restart Hadoop processes is to enact configuration changes.
+Take Hadoop Tests Now! 
+7. __________ Manager’s Service feature monitors dozens of service health and performance metrics about the services and role instances running on your cluster.
+a) Microsoft
+b) Cloudera
+c) Amazon
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Manager’s Service feature presents health and performance data in a variety of formats.
+8. Which of the tab shows all the role instances that have been instantiated for this service?
+a) Service
+b) Status
+c) Instance
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: The Instances page displays the results of the configuration validation checks it performs for all the role instances for this service.
+9. __________ is a standard Java API for monitoring and managing applications.
+a) JVX
+b) JVM
+c) JMX
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Hadoop includes several managed beans (MBeans), which expose Hadoop metrics to JMX-aware applications.
+10. NameNode is monitored and upgraded in a __________ transition.
+a) safemode
+b) securemode
+c) servicemode
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: The HDFS service has some unique functions that may result in additional information on its Status and Instances pages.
+
+Hadoop Questions and Answers – Java Interface
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Java Interface”.
+1. In order to read any file in HDFS, instance of __________ is required.
+a) filesystem
+b) datastream
+c) outstream
+d) inputstream
+View Answer
+Answer: a
+Explanation: InputDataStream is used to read data from file.
+2. Point out the correct statement.
+a) The framework groups Reducer inputs by keys
+b) The shuffle and sort phases occur simultaneously i.e. while outputs are being fetched they are merged
+c) Since JobConf.setOutputKeyComparatorClass(Class) can be used to control how intermediate keys are grouped, these can be used in conjunction to simulate secondary sort on values
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: If equivalence rules for keys while grouping the intermediates are different from those for grouping keys before reduction, then one may specify a Comparator. 
+3. ______________ is method to copy byte from input stream to any other stream in Hadoop.
+a) IOUtils
+b) Utils
+c) IUtils
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: IOUtils class is static method in Java interface.
+4. _____________ is used to read data from bytes buffers.
+a) write()
+b) read()
+c) readwrite()
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: readfully method can also be used instead of read method.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) The framework calls reduce method for each <key, (list of values)> pair in the grouped inputs
+b) The output of the Reducer is re-sorted
+c) reduce method reduces values for a given key
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The output of the Reducer is not re-sorted.
+6. Interface ____________ reduces a set of intermediate values which share a key to a smaller set of values.
+a) Mapper
+b) Reducer
+c) Writable
+d) Readable
+View Answer
+Answer: b
+Explanation: Reducer implementations can access the JobConf for the job.
+Check this: Hadoop Books | Programming MCQs 
+7. Reducer is input the grouped output of a ____________
+a) Mapper
+b) Reducer
+c) Writable
+d) Readable
+View Answer
+Answer: a
+Explanation: In the phase the framework, for each Reducer, fetches the relevant partition of the output of all the Mappers, via HTTP. 
+8. The output of the reduce task is typically written to the FileSystem via ____________
+a) OutputCollector
+b) InputCollector
+c) OutputCollect
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: In reduce phase the reduce(Object, Iterator, OutputCollector, Reporter) method is called for each <key, (list="" of="" values)=""> pair in the grouped inputs.
+9. Applications can use the _________ provided to report progress or just indicate that they are alive.
+a) Collector
+b) Reporter
+c) Dashboard
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: In scenarios where the application takes a significant amount of time to process individual key/value pairs, this is crucial since the framework might assume that the task has timed-out and kill that task. 
+10. Which of the following parameter is to collect keys and combined values?
+a) key
+b) values
+c) reporter
+d) output
+View Answer
+Answer: d
+Explanation: The reporter parameter is for a facility to report progress
+
+
+Hadoop Questions and Answers – Data Flow
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Data Flow”.
+1. ________ is a programming model designed for processing large volumes of data in parallel by dividing the work into a set of independent tasks.
+a) Hive
+b) MapReduce
+c) Pig
+d) Lucene
+View Answer
+Answer: b
+Explanation: MapReduce is the heart of hadoop.
+2. Point out the correct statement.
+a) Data locality means movement of the algorithm to the data instead of data to algorithm
+b) When the processing is done on the data algorithm is moved across the Action Nodes rather than data to the algorithm
+c) Moving Computation is expensive than Moving Data
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Data flow framework possesses the feature of data locality.
+3. The daemons associated with the MapReduce phase are ________ and task-trackers.
+a) job-tracker
+b) map-tracker
+c) reduce-tracker
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: Map-Reduce jobs are submitted on job-tracker.
+4. The JobTracker pushes work out to available _______ nodes in the cluster, striving to keep the work as close to the data as possible.
+a) DataNodes
+b) TaskTracker
+c) ActionNodes
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: A heartbeat is sent from the TaskTracker to the JobTracker every few minutes to check its status whether the node is dead or alive.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) The map function in Hadoop MapReduce have the following general form:map:(K1, V1) -> list(K2, V2)
+b) The reduce function in Hadoop MapReduce have the following general form: reduce: (K2, list(V2)) -> list(K3, V3)
+c) MapReduce has a complex model of data processing: inputs and outputs for the map and reduce functions are key-value pairs
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: MapReduce is relatively simple model to implement in Hadoop.
+6. InputFormat class calls the ________ function and computes splits for each file and then sends them to the jobtracker.
+a) puts
+b) gets
+c) getSplits
+d) all of the mentioned
+View Answer
+Answer: c
+Explanation: InputFormat uses their storage locations to schedule map tasks to process them on the tasktrackers.
+Check this: Programming Books | Hadoop Books 
+7. On a tasktracker, the map task passes the split to the createRecordReader() method on InputFormat to obtain a _________ for that split.
+a) InputReader
+b) RecordReader
+c) OutputReader
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The RecordReader loads data from its source and converts into key-value pairs suitable for reading by mapper.
+8. The default InputFormat is __________ which treats each value of input a new value and the associated key is byte offset.
+a) TextFormat
+b) TextInputFormat
+c) InputFormat
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: A RecordReader is little more than an iterator over records, and the map task uses one to generate record key-value pairs.
+9. __________ controls the partitioning of the keys of the intermediate map-outputs.
+a) Collector
+b) Partitioner
+c) InputFormat
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The output of the mapper is sent to the partitioner.
+10. Output of the mapper is first written on the local disk for sorting and _________ process.
+a) shuffling
+b) secondary sorting
+c) forking
+d) reducing
+View Answer
+Answer: a
+Explanation: All values corresponding to the same key will go the same reducer.
+
+
+
+Hadoop Questions and Answers – Hadoop Archives
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Hadoop Archives”.
+1. _________ is the name of the archive you would like to create.
+a) archive
+b) archiveName
+c) name
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: The name should have a *.har extension.
+2. Point out the correct statement.
+a) A Hadoop archive maps to a file system directory
+b) Hadoop archives are special format archives
+c) A Hadoop archive always has a *.har extension
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: A Hadoop archive directory contains metadata (in the form of _index and _masterindex) and data (part-*) files.
+3. Using Hadoop Archives in __________ is as easy as specifying a different input filesystem than the default file system.
+a) Hive
+b) Pig
+c) MapReduce
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: Hadoop Archives is exposed as a file system MapReduce will be able to use all the logical input files in Hadoop Archives as input.
+4. The __________ guarantees that excess resources taken from a queue will be restored to it within N minutes of its need for them.
+a) capacitor
+b) scheduler
+c) datanode
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: Free resources can be allocated to any queue beyond its guaranteed capacity.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) The Hadoop archive exposes itself as a file system layer
+b) Hadoop archives are immutable
+c) Archive rename, deletes and creates return an error
+d) None of the mentioned
+View Answer
+Answer: d
+Explanation: All the fs shell commands in the archives work but with a different URI.
+6. _________ is a pluggable Map/Reduce scheduler for Hadoop which provides a way to share large clusters.
+a) Flow Scheduler
+b) Data Scheduler
+c) Capacity Scheduler
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: The Capacity Scheduler supports multiple queues, where a job is submitted to a queue.
+Check this: Programming Books | Hadoop Books 
+7. Which of the following parameter describes destination directory which would contain the archive?
+a) -archiveName <name>
+b) <source>
+c) <destination>
+d) none of the mentioned
+View Answer
+Answer: c
+Explanation: -archiveName <name> is the name of the archive to be created.
+8. _________ identifies filesystem path names which work as usual with regular expressions.
+a) -archiveName <name>
+b) <source>
+c) <destination>
+d) none of the mentioned
+View Answer
+Answer: d
+Explanation: identifies destination directory which would contain the archive.
+9. __________ is the parent argument used to specify the relative path to which the files should be archived to
+a) -archiveName <name>
+b) -p <parent_path>
+c) <destination>
+d) <source>
+View Answer
+Answer: b
+Explanation: The hadoop archive command creates a Hadoop archive, a file that contains other files.
+10. Which of the following is a valid syntax for hadoop archive?
+a)
+ hadooparchive [ Generic Options ] archive
+    -archiveName <name>
+    [-p <parent>]
+    <source>
+    <destination>
+b)
+ hadooparch [ Generic Options ] archive
+    -archiveName <name>
+    [-p <parent>]
+    <source>
+    <destination>
+c)
+ hadoop [ Generic Options ] archive
+    -archiveName <name>
+    [-p <parent>]
+    <source>
+    <destination>
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: The Hadoop archiving tool can be invoked using the following command format: hadoop archive -archiveName name -p <parent> <src>* <dest>.
+
+
+
+Hadoop Questions and Answers – Hadoop I/O
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Hadoop I/O”.
+1. Hadoop I/O Hadoop comes with a set of ________ for data I/O.
+a) methods
+b) commands
+c) classes
+d) none of the mentioned
+View Answer
+Answer: d
+Explanation: Hadoop I/O consist of primitives for serialization and deserialization.
+2. Point out the correct statement.
+a) The sequence file also can contain a “secondary” key-value list that can be used as file Metadata
+b) SequenceFile formats share a header that contains some information which allows the reader to recognize is format
+c) There’re Key and Value Class Name’s that allow the reader to instantiate those classes, via reflection, for reading
+d) All of the mentioned
+View Answer
+3. Apache Hadoop ___________ provides a persistent data structure for binary key-value pairs.
+a) GetFile
+b) SequenceFile
+c) Putfile
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: SequenceFile is append-only.
+4. How many formats of SequenceFile are present in Hadoop I/O?
+a) 2
+b) 3
+c) 4
+d) 5
+View Answer
+Answer: b
+Explanation: SequenceFile has 3 available formats: An “Uncompressed” format, a “Record Compressed” format and a “Block-Compressed”.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) The data file contains all the key, value records but key N + 1 must be greater than or equal to the key N
+b) Sequence file is a kind of hadoop file based data structure
+c) Map file type is splittable as it contains a sync point after several records
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Map file is again a kind of hadoop file based data structure and it differs from a sequence file in a matter of the order.
+6. Which of the following format is more compression-aggressive?
+a) Partition Compressed
+b) Record Compressed
+c) Block-Compressed
+d) Uncompressed
+View Answer
+Answer: c
+Explanation: SequenceFile key-value list can be just a Text/Text pair, and is written to the file during the initialization that happens in the SequenceFile.
+Check this: Programming MCQs | Hadoop Books 
+7. The __________ is a directory that contains two SequenceFile.
+a) ReduceFile
+b) MapperFile
+c) MapFile
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: Sequence files are data file (“/data”) and the index file (“/index”).
+8. The ______ file is populated with the key and a LongWritable that contains the starting byte position of the record.
+a) Array
+b) Index
+c) Immutable
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: Index doesn’t contains all the keys but just a fraction of the keys.
+9. The _________ as just the value field append(value) and the key is a LongWritable that contains the record number, count + 1.
+a) SetFile
+b) ArrayFile
+c) BloomMapFile
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The SetFile instead of append(key, value) as just the key field append(key) and the value is always the NullWritable instance.
+10. ____________ data file takes is based on avro serialization framework which was primarily created for hadoop.
+a) Oozie
+b) Avro
+c) cTakes
+d) Lucene
+View Answer
+Answer: b
+Explanation: Avro is a splittable data format with a metadata section at the beginning and then a sequence of avro serialized objects.
+
+
+
+Hadoop Questions and Answers – Hadoop Configuration
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “Hadoop Configuration”.
+1. Which of the following class provides access to configuration parameters?
+a) Config
+b) Configuration
+c) OutputConfig
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Configurations are specified by resources.
+2. Point out the correct statement.
+a) Configuration parameters may be declared static
+b) Unless explicitly turned off, Hadoop by default specifies two resources
+c) Configuration class provides access to configuration parameters
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Once a resource declares a value final, no subsequently-loaded resource can alter that value.
+3. ___________ gives site-specific configuration for a given hadoop installation.
+a) core-default.xml
+b) core-site.xml
+c) coredefault.xml
+d) all of the mentioned
+View Answer
+Answer: b
+Explanation: core-default.xml is read-only defaults for hadoop.
+4. Administrators typically define parameters as final in __________ for values that user applications may not alter.
+a) core-default.xml
+b) core-site.xml
+c) coredefault.xml
+d) all of the mentioned
+View Answer
+Answer: b
+Explanation: Value strings are first processed for variable expansion.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) addDeprecations adds a set of deprecated keys to the global deprecations
+b) configuration parameters cannot be declared final
+c) addDeprecations method is lockless
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: Configuration parameters may be declared final.
+6. _________ method clears all keys from the configuration.
+a) clear
+b) addResource
+c) getClass
+d) none of the mentioned
+View Answer
+Answer: a
+Explanation: getClass is used to get the value of the name property as a Class.
+Check this: Hadoop Books | Programming MCQs 
+7. ________ method adds the deprecated key to the global deprecation map.
+a) addDeprecits
+b) addDeprecation
+c) keyDeprecation
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: addDeprecation does not override any existing entries in the deprecation map.
+8. ________ checks whether the given key is deprecated.
+a) isDeprecated
+b) setDeprecated
+c) isDeprecatedif
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: Method returns true if the key is deprecated and false otherwise.
+9. _________ is useful for iterating the properties when all deprecated properties for currently set properties need to be present.
+a) addResource
+b) setDeprecatedProperties
+c) addDefaultResource
+d) none of the mentioned
+View Answer
+Answer: b
+Explanation: setDeprecatedProperties sets all deprecated properties that are not currently set but have a corresponding new property that is set. 
+10. Which of the following adds a configuration resource?
+a) addDeprecation
+b) setDeprecatedProperties
+c) addDefaultResource
+d) addResource
+View Answer
+Answer: d
+Explanation: The properties of this resource will override the properties of previously added resources unless they were marked final. addResource adds a configuration resource.
+
+################################################################################################################################################################# YARN
+Hadoop Questions and Answers – YARN – 1
+« Prev 
+Next » 
+This set of Hadoop Multiple Choice Questions & Answers (MCQs) focuses on “YARN – 1”.
+1. ________ is the architectural center of Hadoop that allows multiple data processing engines.
+a) YARN
+b) Hive
+c) Incubator
+d) Chuckwa
+View Answer
+Answer: a
+Explanation: YARN is the prerequisite for Enterprise Hadoop, providing resource management and a central platform to deliver consistent operations, security, and data governance tools across Hadoop clusters.
+2. Point out the correct statement.
+a) YARN also extends the power of Hadoop to incumbent and new technologies found within the data center
+b) YARN is the central point of investment for Hortonworks within the Apache community
+c) YARN enhances a Hadoop compute cluster in many ways
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: YARN provides ISVs and developers a consistent framework for writing data access applications that run IN Hadoop.
+3. YARN’s dynamic allocation of cluster resources improves utilization over more static _______ rules used in early versions of Hadoop.
+a) Hive
+b) MapReduce
+c) Imphala
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: Multi-tenant data processing improves an enterprise’s return on its Hadoop investments.
+4. The __________ is a framework-specific entity that negotiates resources from the ResourceManager.
+a) NodeManager
+b) ResourceManager
+c) ApplicationMaster
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: Each ApplicationMaster has the responsibility for negotiating appropriate resource containers from the schedule.
+Sanfoundry Certification Contest of the Month is Live. 100+ Subjects. Participate Now! 
+advertisement
+5. Point out the wrong statement.
+a) From the system perspective, the ApplicationMaster runs as a normal container
+b) The ResourceManager is the per-machine slave, which is responsible for launching the applications’ containers
+c) The NodeManager is the per-machine slave, which is responsible for launching the applications’ containers, monitoring their resource usage
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: ResourceManager has a scheduler, which is responsible for allocating resources to the various applications running in the cluster, according to constraints such as queue capacities and user limits.
+6. Apache Hadoop YARN stands for _________
+a) Yet Another Reserve Negotiator
+b) Yet Another Resource Network
+c) Yet Another Resource Negotiator
+d) All of the mentioned
+View Answer
+Answer: c
+Explanation: YARN is a cluster management technology.
+Check this: Programming MCQs | Hadoop Books 
+7. MapReduce has undergone a complete overhaul in hadoop is _________
+a) 0.21
+b) 0.23
+c) 0.24
+d) 0.26
+View Answer
+Answer: b
+Explanation: The fundamental idea of MRv2 is to split up the two major functionalities of the JobTracker.
+8. The ____________ is the ultimate authority that arbitrates resources among all the applications in the system.
+a) NodeManager
+b) ResourceManager
+c) ApplicationMaster
+d) All of the mentioned
+View Answer
+Answer: b
+Explanation: The ResourceManager and per-node slave, the NodeManager (NM), form the data-computation framework.
+9. The __________ is responsible for allocating resources to the various running applications subject to familiar constraints of capacities, queues etc.
+a) Manager
+b) Master
+c) Scheduler
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: The Scheduler is a pure scheduler in the sense that it performs no monitoring or tracking of status for the application.
+10. The CapacityScheduler supports _____________ queues to allow for more predictable sharing of cluster resources.
+a) Networked
+b) Hierarchical
+c) Partition
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: The Scheduler has a pluggable policy plugin, which is responsible for partitioning the cluster resources among the various queues, applications etc
+YARN – 2
+« Prev 
+Next » 
+This set of Hadoop Question Bank focuses on “YARN – 2”.
+1. Yarn commands are invoked by the ________ script.
+a) hive
+b) bin
+c) hadoop
+d) home
+View Answer
+Answer: b
+Explanation: Running the yarn script without any arguments prints the description for all commands.
+2. Point out the correct statement.
+a) Each queue has strict ACLs which controls which users can submit applications to individual queues
+b) Hierarchy of queues is supported to ensure resources are shared among the sub-queues of an organization
+c) Queues are allocated a fraction of the capacity of the grid in the sense that a certain capacity of resources will be at their disposal
+d) All of the mentioned
+View Answer
+Answer: d
+Explanation: All applications submitted to a queue will have access to the capacity allocated to the queue.
+3. The queue definitions and properties such as ________ ACLs can be changed, at runtime.
+a) tolerant
+b) capacity
+c) speed
+d) all of the mentioned
+View Answer
+Answer: b
+Explanation: Administrators can add additional queues at runtime, but queues cannot be deleted at runtime.
+4. The CapacityScheduler has a predefined queue called _________
+a) domain
+b) root
+c) rear
+d) all of the mentioned
+View Answer
+Answer: b
+Explanation: All queues in the system are children of the root queue. 
+advertisement
+5. Point out the wrong statement.
+a) The multiple of the queue capacity which can be configured to allow a single user to acquire more resources
+b) Changing queue properties and adding new queues is very simple
+c) Queues cannot be deleted, only addition of new queues is supported
+d) None of the mentioned
+View Answer
+Answer: d
+Explanation: You need to edit conf/capacity-scheduler.xml and run yarn rmadmin -refreshQueues for changing queue properties.
+6. The updated queue configuration should be a valid one i.e. queue-capacity at each level should be equal to _________
+a) 50%
+b) 75%
+c) 100%
+d) 0%
+View Answer
+Answer: c
+Explanation: Queues cannot be deleted, only the addition of new queues is supported. 
+7. Users can bundle their Yarn code in a _________ file and execute it using jar command.
+a) java
+b) jar
+c) C code
+d) xml
+View Answer
+Answer: b
+Explanation: Usage: yarn jar <jar> [mainClass] args…
+8. Which of the following command is used to dump the log container?
+a) logs
+b) log
+c) dump
+d) all of the mentioned
+View Answer
+Answer: a
+Explanation: Usage: yarn logs -applicationId <application ID> <options>.
+9. __________ will clear the RMStateStore and is useful if past applications are no longer needed.
+a) -format-state
+b) -form-state-store
+c) -format-state-store
+d) none of the mentioned
+View Answer
+Answer: c
+Explanation: -format-state-store formats the RMStateStore.
+10. Which of the following command runs ResourceManager admin client?
+a) proxyserver
+b) run
+c) admin
+d) rmadmin
+View Answer
+Answer: d
+Explanation: proxyserver command starts the web proxy server
+########################################################################################################################################################################MAPREDUCE
+
+– Introduction to Mapreduce
+« Prev 
+Next » 
+This set of Multiple Choice Questions & Answers (MCQs) focuses on “Introduction to Mapreduce”.
+1. A ________ node acts as the Slave and is responsible for executing a Task assigned to it by the JobTracker.
+a) MapReduce
+b) Mapper
+c) TaskTracker
+d) JobTracker
+View Answer
+Answer: c
+Explanation: TaskTracker receives the information necessary for the execution of a Task from JobTracker, Executes the Task, and Sends the Results back to JobTracker.
+2. Point out the correct statement.
+a) MapReduce tries to place the data and the compute as close as possible
+b) Map Task in MapReduce is performed using the Mapper() function
+c) Reduce Task in MapReduce is performed using the Map() function
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: This feature of MapReduce is “Data Locality”.
+3. ___________ part of the MapReduce is responsible for processing one or more chunks of data and producing the output results.
+a) Maptask
+b) Mapper
+c) Task execution
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Map Task in MapReduce is performed using the Map() function.
+4. _________ function is responsible for consolidating the results produced by each of the Map() functions/tasks.
+a) Reduce
+b) Map
+c) Reducer
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: Reduce function collates the work and resolves the results.
+advertisement
+5. Point out theRIGHT statement.
+a) A MapReduce job usually splits the input data-set into independent chunks which are processed by the map tasks in a completely parallel manner
+b) The MapReduce framework operates exclusively on <key, value> pairs
+c) Applications typically implement the Mapper and Reducer interfaces to provide the map and reduce methods
+
+6. Although the Hadoop framework is implemented in Java, MapReduce applications need not be written in ____________
+a) Java
+b) C
+c) C#
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Hadoop Pipes is a SWIG- compatible C++ API to implement MapReduce applications (non JNITM based).
+
+7. ________ is a utility which allows users to create and run jobs with any executables as the mapper and/or the reducer.
+a) Hadoop Strdata
+b) Hadoop Streaming
+c) Hadoop Stream
+d) None of the mentioned
+View Answer
+Answer: b
+Explanation: Hadoop streaming is one of the most important utilities in the Apache Hadoop distribution.
+8. __________ maps input key/value pairs to a set of intermediate key/value pairs.
+a) Mapper
+b) Reducer
+c) Both Mapper and Reducer
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Maps are the individual tasks that transform input records into intermediate records.
+9. The number of maps is usually driven by the total size of ____________
+a) inputs
+b) outputs
+c) tasks
+d) None of the mentioned
+View Answer
+Answer: a
+Explanation: Total size of inputs means the total number of blocks of the input files.
+10. _________ is the default Partitioner for partitioning key space.
+a) HashPar
+b) Partitioner
+c) HashPartitioner
+d) None of the mentioned
+View Answer
+Answer: c
+Explanation: The default partitioner in Hadoop is the HashPartitioner which has a method called getPartition to partition.
+11. Running a ___________ program involves running mapping tasks on many or all of the nodes in our cluster.
+a) MapReduce
+b) Map
+c) Reducer
+d) All of the mentioned
+View Answer
+Answer: a
+Explanation: In some applications, component tasks need to create and/or write to side-files, which differ from the actual job-output files.
+Multiple Choice Questions on HDFS Maintenance Tasks:
+1.
+What is the process for adding a new DataNode to an existing HDFS cluster? A) Manually configure the new DataNode and restart the HDFS service B) Use the NameNode web UI to add the new DataNode C) Use the HDFS CLI to add the new DataNode D) None of the above Answer: A) Manually configure the new DataNode and restart the HDFS service
+2.
+3.
+What is the process for decommissioning a DataNode in an HDFS cluster? A) Use the NameNode web UI to decommission the DataNode B) Use the HDFS CLI to decommission the DataNode C) Manually stop the DataNode service and remove it from the HDFS configuration D) All of the above Answer: B) Use the HDFS CLI to decommission the DataNode
+4.
+5.
+What is the purpose of rebalancing data in HDFS? A) To distribute data evenly across all DataNodes in the cluster B) To move data from over-utilized DataNodes to under-utilized DataNodes C) To improve overall performance and reliability of the HDFS cluster D) All of the above Answer: D) All of the above
+6.
+7.
+What is the process for updating HDFS configurations in a live cluster? A) Modify the configuration files and restart the HDFS service B) Use the NameNode web UI to update the configurations C) Use the HDFS CLI to update the configurations D) None of the above Answer: A) Modify the configuration files and restart the HDFS service
+8.
+9.
+What is the process for upgrading HDFS in a live cluster? A) Upgrade the software on all nodes in the cluster and restart the HDFS service B) Use the NameNode web UI to upgrade HDFS C) Use the HDFS CLI to upgrade HDFS D) None of the above Answer: A) Upgrade the software on all nodes in the cluster and restart the HDFS service
+10.
